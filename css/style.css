@@ -1,0 +1,12 @@
+
+body {
+    padding-top: 20px;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.btn-block {
+    margin-bottom: 20px;
+}
