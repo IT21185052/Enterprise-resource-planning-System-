@@ -1,4 +1,4 @@
-# Customer Management System
+# Enterprise Resourse Planning System
 
 ## Overview
 This is a simple ERP System built using PHP and MySQL. The system allows you to add, edit, view, and delete customer and item records and generate the reports and download the reports as a CSV file.
